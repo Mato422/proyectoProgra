@@ -7,6 +7,13 @@ namespace ConsoleApp4
         static void Main(string[] args)
         {
             Console.WriteLine("PRUEBA!");
+
+            Cancer();
+        }
+
+        static Cancer()
+        {
+            Console.WriteLine("CANCER CANCER CANCER");
         }
     }
 }
