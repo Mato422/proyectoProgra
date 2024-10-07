@@ -29,34 +29,34 @@ namespace ConsoleApp4
                 {
                     case 1: nuevaPartida();
                         break;
-                    case 2: Exit();
+                    case 2: isPlaying=false;
                         break;
                     default: Console.WriteLine("Oleme el dedo");
                         break;
                 }
                 
 
-            } while ();
+            } while (isPlaying = true);
             
-            
-            
-            
-            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         }
+            
+        
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
         
     }
