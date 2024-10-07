@@ -14,6 +14,7 @@ namespace ConsoleApp4
         static Cancer()
         {
             Console.WriteLine("CANCER CANCER CANCER");
+            Console.WriteLine("Penelope");
         }
     }
 }
